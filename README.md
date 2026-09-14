@@ -77,7 +77,13 @@ A crucial part of empirical benchmarking is communicating your results clearly. 
 
 ## Part 5: Teaching Staff Check-in
 
-Discuss your plot(s) with a member of the teaching staff to get feedback on your implementation and analysis. If everything looks good, then proceed to Part 6 and complete the exercise.
+Discuss your work with a member of the teaching staff to get feedback on your implementation and analysis. In particular, discuss the following:
+- Be able to clearly describe the problem
+- How your baseline algorithm works
+- How Kadane's algorithm works
+- Your plot showing the performance comparison between the baseline and Kadane's algorithm
+
+ If everything looks good, then proceed to Part 6 and complete the exercise.
 
 ## Part 6: Exercise
 
